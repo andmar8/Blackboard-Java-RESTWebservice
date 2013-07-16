@@ -3,6 +3,8 @@ Blackboard-Java-RESTWebservice
 
 Bare with me, it'll take a while to get all the required source and dependancies on github and then a bit of documentation to make this useful...
 
+Documentation can still be found in the project's original home on oscelot... http://projects.oscelot.org/gf/project/webservices/, this will change "at some point in the future"
+
 This project is basically a different front to the SOAP service, all of the back end code has been written, it just needs the REST interfaces joining to it to expose the code.
 
 Dependencies
